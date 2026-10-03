@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "status": {
+      "type": "first-thread-status",
+      "settings": {
+        "text": "Pre-launch preview · checkout opens only after sample approval",
+        "link_label": "See our launch gates",
+        "link": "#launch-gates"
+      }
+    },
+    "hero": {
+      "type": "first-thread-hero",
+      "settings": {
+        "kicker": "Original mini needlepoint · true-beginner path",
+        "heading": "A first project you can actually finish.",
+        "body": "<p>Small, complete needlepoint projects with the color sorted, the first stitch explained, and calm help when something goes sideways.</p>",
+        "price": "$39",
+        "price_note": "planned founding-kit price · U.S. launch",
+        "primary_label": "Join the founding drop",
+        "primary_link": "#founding-waitlist",
+        "secondary_label": "See the designs",
+        "secondary_link": "#founding-designs",
+        "note": "Preview only. No order is accepted until the physical sample, novice test, landed cost, and ship date pass.",
+        "stamp": "Digital product visualization · final materials may vary"
+      }
+    },
+    "catalog": {
+      "type": "first-thread-catalog",
+      "blocks": {
+        "night_garden": {
+          "type": "product",
+          "settings": {
+            "fallback_asset": "night-garden-kit.webp",
+            "alt": "Digital visualization of the planned Night Garden beginner needlepoint kit",
+            "title": "Night Garden",
+            "price": "$39",
+            "badge": "Founding design",
+            "description": "A calm botanical mini with six colors and a clear first-stitch path.",
+            "fallback_link": "#founding-waitlist"
+          }
+        },
+        "lucky_sardine": {
+          "type": "product",
+          "settings": {
+            "fallback_asset": "lucky-sardine-kit.webp",
+            "alt": "Digital visualization of the planned Lucky Sardine beginner needlepoint kit",
+            "title": "Lucky Sardine",
+            "price": "$39",
+            "badge": "Playful gift",
+            "description": "A bright portable good-luck project with a short, visual color path.",
+            "fallback_link": "#founding-waitlist"
+          }
+        },
+        "little_victory": {
+          "type": "product",
+          "settings": {
+            "fallback_asset": "little-victory-kit.webp",
+            "alt": "Digital visualization of the planned Little Victory beginner needlepoint kit",
+            "title": "Little Victory",
+            "price": "$39",
+            "badge": "Celebration project",
+            "description": "A tiny trophy for promotions, fresh starts, and wins worth keeping.",
+            "fallback_link": "#founding-waitlist"
+          }
+        }
+      },
+      "block_order": ["night_garden", "lucky_sardine", "little_victory"],
+      "settings": {
+        "kicker": "The founding designs",
+        "heading": "Pick the one you would keep stitching.",
+        "body": "<p>Three original directions keep the first drop focused. Every design starts small, uses one core stitch, and is intended to finish without an expensive finishing service.</p>"
+      }
+    },
+    "method": {
+      "type": "first-thread-method",
+      "blocks": {
+        "step1": {"type":"step","settings":{"heading":"Match the color.","body":"The printed canvas shows where each pre-sorted thread belongs."}},
+        "step2": {"type":"step","settings":{"heading":"Learn one stitch first.","body":"A clear card and original video teach the first rows, tension, and how to undo a mistake."}},
+        "step3": {"type":"step","settings":{"heading":"Finish it yourself.","body":"The small format is designed for a patch, tag, ornament, or mini display—without professional finishing."}}
+      },
+      "block_order": ["step1","step2","step3"],
+      "settings": {
+        "kicker": "The beginner-completion system",
+        "heading": "No assumed knowledge. No mystery leftovers.",
+        "note": "The exact completion-time claim will be added only after a true novice finishes the production-format sample without live coaching."
+      }
+    },
+    "contents": {
+      "type": "first-thread-contents",
+      "blocks": {
+        "c1": {"type":"item","settings":{"item":"Original 3.5–4 inch design","status":"Artwork complete"}},
+        "c2": {"type":"item","settings":{"item":"10–13 mesh printed canvas","status":"Pending print test"}},
+        "c3": {"type":"item","settings":{"item":"Pre-sorted cotton or wool thread","status":"15% overage target"}},
+        "c4": {"type":"item","settings":{"item":"Blunt tapestry needle + threader","status":"Adult use"}},
+        "c5": {"type":"item","settings":{"item":"Illustrated quick-start + video help","status":"Original instruction"}}
+      },
+      "block_order": ["c1","c2","c3","c4","c5"],
+      "settings": {
+        "kicker": "One complete box",
+        "heading": "Everything for the first stitch—plus room for the learning curve.",
+        "body": "<p>The value is not a bag of supplies. It is a deliberately small first project with the materials, sequence, and recovery help organized before it reaches you.</p>"
+      }
+    },
+    "occasions": {
+      "type": "first-thread-occasions",
+      "blocks": {
+        "o1": {"type":"occasion","settings":{"heading":"A quiet reset","body":"One small project, one stitch, and an hour that does not ask you to scroll."}},
+        "o2": {"type":"occasion","settings":{"heading":"Make it together","body":"Two complete kits for a friend night or low-pressure date."}},
+        "o3": {"type":"occasion","settings":{"heading":"Give a real start","body":"A gift that includes the first step—not just another task to figure out."}}
+      },
+      "block_order": ["o1","o2","o3"],
+      "settings": {"kicker":"More than supplies","heading":"Choose the kind of evening you need."}
+    },
+    "proof": {
+      "type": "first-thread-proof",
+      "blocks": {
+        "g1": {"type":"gate","settings":{"gate":"Physical production-format sample","status":"In progress"}},
+        "g2": {"type":"gate","settings":{"gate":"True-novice completion test","status":"Not started"}},
+        "g3": {"type":"gate","settings":{"gate":"Thread quantity + print registration QC","status":"Not started"}},
+        "g4": {"type":"gate","settings":{"gate":"Complete landed cost at or below $11","status":"Quote required"}},
+        "g5": {"type":"gate","settings":{"gate":"Exact ship date and fulfillment capacity","status":"Required before preorder"}}
+      },
+      "block_order": ["g1","g2","g3","g4","g5"],
+      "settings": {
+        "kicker": "Proof before promises",
+        "heading": "No fake reviews. No invented finish times.",
+        "body": "<p>Until real customers exist, we use product facts and transparent launch gates instead of fabricated social proof. The first sale happens only after the physical kit works as described.</p>"
+      }
+    },
+    "newsletter": {
+      "type": "first-thread-newsletter",
+      "settings": {
+        "kicker": "Founding drop",
+        "heading": "Get the sample result—not empty hype.",
+        "body": "Join for the novice-test result, final materials, verified completion range, opening date, and the first three original designs.",
+        "disclosure": "Joining is free and does not reserve inventory or authorize a charge. Unsubscribe anytime."
+      }
+    },
+    "faq": {
+      "type": "first-thread-faq",
+      "blocks": {
+        "q1": {"type":"item","settings":{"question":"Is this really for a complete beginner?","answer":"<p>That is the design goal. We will publish the exact completion range and approved format only after a true novice finishes the production sample without live coaching.</p>"}},
+        "q2": {"type":"item","settings":{"question":"What happens if I make a mistake?","answer":"<p>The planned quick-start and video help cover undoing a stitch, restarting a thread, keeping tension relaxed, and requesting a compatible rescue pack.</p>"}},
+        "q3": {"type":"item","settings":{"question":"Why can't I check out yet?","answer":"<p>We will not accept payment until the physical sample, novice test, thread quantity, print alignment, landed cost, and fulfillment date are verified.</p>"}},
+        "q4": {"type":"item","settings":{"question":"Are the product images photographs?","answer":"<p>No. Current images are clearly labeled digital product visualizations. They will be replaced or supplemented with real sample photography before checkout opens.</p>"}},
+        "q5": {"type":"item","settings":{"question":"Does the kit contain a needle?","answer":"<p>Yes. The planned kit contains a blunt tapestry needle and is positioned for adult use. Final warnings and component details follow the production sample and supplier review.</p>"}}
+      },
+      "block_order": ["q1","q2","q3","q4","q5"],
+      "settings": {"kicker":"Questions before the first stitch","heading":"The honest answers."}
+    }
+  },
+  "order": ["status","hero","catalog","method","contents","occasions","proof","newsletter","faq"]
+}

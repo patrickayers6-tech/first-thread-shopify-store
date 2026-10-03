@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://patrickayers6-tech.github.io/first-thread-shopify-store/sitemap.xml

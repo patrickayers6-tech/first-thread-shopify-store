@@ -1,0 +1,160 @@
+{
+  "brand": {
+    "name": "First Thread Studio",
+    "tagline": "Small projects. Real finishes.",
+    "positioning": "Original mini needlepoint kits that remove the first-time friction: one stitch, pre-sorted color, self-finishing projects, and calm recovery help.",
+    "audience": "Adults who like screen-free creative time but do not identify as crafters yet.",
+    "voice": ["warm", "plainspoken", "specific", "encouraging", "never precious"],
+    "colors": {
+      "paper": "#F4EEDF",
+      "cream": "#FFF9ED",
+      "midnight": "#16263B",
+      "poppy": "#D85143",
+      "mustard": "#E4AC42",
+      "sage": "#55796D",
+      "dusty_blue": "#5872A8"
+    },
+    "contact_email": "firstthread-studio@agentmail.to",
+    "status": "Pre-launch storefront preview. Orders remain disabled until sample, cost, and fulfillment gates pass."
+  },
+  "benchmark_model": {
+    "primary": "TobioShop",
+    "reason": "Ranked first in the October 2026 clean-room benchmark on current ad momentum and hero-product discipline.",
+    "adapted_patterns": [
+      "one hero project with a visible process",
+      "good/better offer ladder",
+      "compact add-on that solves a real beginner problem",
+      "frequent tactile creative angles"
+    ],
+    "secondary_patterns": {
+      "The Woobles": "true-beginner onboarding and mistake recovery",
+      "Pipsticks": "original themed drops after demand proof",
+      "Sculpd": "gift, solo-night, and friend-night merchandising",
+      "Diamond Art Club": "project facts, filters, and release cadence"
+    },
+    "clean_room_rule": "No copied names, art, characters, layouts, trade dress, photography, instructions, packaging, or exact copy."
+  },
+  "products": [
+    {
+      "handle": "night-garden-first-stitch-mini",
+      "sku": "FTS-NG-01",
+      "title": "Night Garden First Stitch Mini",
+      "short_title": "Night Garden",
+      "price": "39.00",
+      "compare_at_price": "",
+      "product_type": "Beginner needlepoint kit",
+      "collection": "First Stitch Minis",
+      "status": "draft",
+      "featured": true,
+      "badge": "Founding design",
+      "one_line": "A calm botanical mini designed to turn your first stitch into a finished piece.",
+      "description_html": "<p>Start needlepoint without starting a supply collection. <strong>Night Garden</strong> is a compact, original mini project built around one beginner stitch and a clear color path.</p><p>The planned complete kit includes a printed 10–13 mesh canvas, pre-sorted thread with learning-room overage, a blunt tapestry needle, a threader, a quick-start card, and original video help. The small format is designed to become a self-finished ornament, patch, tag, or mini display—without sending it to a professional finisher.</p><ul><li>Skill level: true beginner</li><li>Prior experience: none planned</li><li>Finished design: approximately 3.5–4 in</li><li>Colors: 6</li><li>Core technique: one diagonal tent stitch</li><li>Age positioning: adult craft kit; contains a needle</li></ul><p><em>Pre-launch note:</em> this listing is in draft until physical sample, thread quantity, print alignment, completion time, and ship date are verified.</p>",
+      "seo_title": "Night Garden beginner needlepoint kit | First Thread Studio",
+      "seo_description": "A compact adult beginner needlepoint kit with original botanical art, pre-sorted thread, a blunt needle, and step-by-step help.",
+      "tags": ["beginner needlepoint", "adult craft kit", "screen-free gift", "mini needlepoint", "botanical craft", "first stitch", "original design"],
+      "facts": {"Finished size":"Approx. 3.5–4 in","Mesh":"Planned 10–13 mesh","Thread":"Planned cotton or wool; pre-sorted","Colors":"6","Experience":"None","Completion time":"Published only after novice test","Finishing":"Self-finishing format","Safety":"Adult use; contains a blunt needle"},
+      "images": ["night-garden-kit.webp", "night-garden-detail.webp", "kit-contents-night-garden.webp"]
+    },
+    {
+      "handle": "lucky-sardine-first-stitch-mini",
+      "sku": "FTS-LS-01",
+      "title": "Lucky Sardine First Stitch Mini",
+      "short_title": "Lucky Sardine",
+      "price": "39.00",
+      "compare_at_price": "",
+      "product_type": "Beginner needlepoint kit",
+      "collection": "First Stitch Minis",
+      "status": "draft",
+      "featured": false,
+      "badge": "Playful gift",
+      "one_line": "A bright little fish for the person who needs a portable good-luck project.",
+      "description_html": "<p>A first needlepoint project should feel inviting before the first thread is cut. <strong>Lucky Sardine</strong> uses an original, graphic fish motif and a limited color path so a new stitcher can see progress quickly.</p><p>The planned complete kit includes a printed 10–13 mesh canvas, pre-sorted thread with learning-room overage, a blunt tapestry needle, threader, quick-start card, and original video help. The compact design is intended for a self-finished patch, ornament, luggage tag, or mini display.</p><ul><li>Skill level: true beginner</li><li>Prior experience: none planned</li><li>Finished design: approximately 3.5–4 in</li><li>Colors: 5</li><li>Core technique: one diagonal tent stitch</li><li>Age positioning: adult craft kit; contains a needle</li></ul><p><em>Pre-launch note:</em> this listing remains draft until physical sample and novice completion testing are complete.</p>",
+      "seo_title": "Lucky Sardine mini needlepoint kit | First Thread Studio",
+      "seo_description": "An original fish-themed adult beginner needlepoint kit with pre-sorted thread and calm step-by-step help.",
+      "tags": ["beginner needlepoint", "adult craft kit", "fish gift", "mini needlepoint", "portable craft", "first stitch", "original design"],
+      "facts": {"Finished size":"Approx. 3.5–4 in","Mesh":"Planned 10–13 mesh","Thread":"Planned cotton or wool; pre-sorted","Colors":"5","Experience":"None","Completion time":"Published only after novice test","Finishing":"Self-finishing format","Safety":"Adult use; contains a blunt needle"},
+      "images": ["lucky-sardine-kit.webp", "lucky-sardine-detail.webp", "kit-contents-lucky-sardine.webp"]
+    },
+    {
+      "handle": "little-victory-first-stitch-mini",
+      "sku": "FTS-LV-01",
+      "title": "Little Victory First Stitch Mini",
+      "short_title": "Little Victory",
+      "price": "39.00",
+      "compare_at_price": "",
+      "product_type": "Beginner needlepoint kit",
+      "collection": "First Stitch Minis",
+      "status": "draft",
+      "featured": false,
+      "badge": "Celebration project",
+      "one_line": "A small trophy stitched for promotions, fresh starts, and wins worth keeping.",
+      "description_html": "<p>Mark the win by making something with your hands. <strong>Little Victory</strong> is an original mini trophy design planned for a true beginner: a short color list, one core stitch, and a format that does not require professional finishing.</p><p>The complete-kit plan includes a printed 10–13 mesh canvas, pre-sorted thread with learning-room overage, a blunt tapestry needle, threader, quick-start card, and original video help.</p><ul><li>Skill level: true beginner</li><li>Prior experience: none planned</li><li>Finished design: approximately 3.5–4 in</li><li>Colors: 5</li><li>Core technique: one diagonal tent stitch</li><li>Age positioning: adult craft kit; contains a needle</li></ul><p><em>Pre-launch note:</em> this listing remains draft until the physical sample, material quantities, and beginner test pass.</p>",
+      "seo_title": "Little Victory beginner needlepoint kit | First Thread Studio",
+      "seo_description": "An original mini trophy needlepoint kit for adult beginners, with pre-sorted thread and guided first-stitch help.",
+      "tags": ["beginner needlepoint", "adult craft kit", "celebration gift", "mini needlepoint", "promotion gift", "first stitch", "original design"],
+      "facts": {"Finished size":"Approx. 3.5–4 in","Mesh":"Planned 10–13 mesh","Thread":"Planned cotton or wool; pre-sorted","Colors":"5","Experience":"None","Completion time":"Published only after novice test","Finishing":"Self-finishing format","Safety":"Adult use; contains a blunt needle"},
+      "images": ["little-victory-kit.webp", "little-victory-detail.webp", "kit-contents-little-victory.webp"]
+    },
+    {
+      "handle": "pick-any-two-first-stitch-minis",
+      "sku": "FTS-DUO-01",
+      "title": "Pick Any Two First Stitch Minis",
+      "short_title": "First Stitch Duo",
+      "price": "69.00",
+      "compare_at_price": "78.00",
+      "product_type": "Needlepoint kit bundle",
+      "collection": "Gift Sets",
+      "status": "draft",
+      "featured": true,
+      "badge": "Best-value gift",
+      "one_line": "Two complete mini projects: keep both or make one alongside someone you like.",
+      "description_html": "<p>Two small projects make a better first craft night. Choose two original First Stitch Mini designs and receive two complete planned kits—each with its own canvas, color set, beginner tools, quick-start card, and video help.</p><p>The duo is designed for a friend night, a low-pressure date, or one project now and one next. Each kit remains individually usable; no materials need to be shared.</p><ul><li>Two complete mini kits</li><li>Planned U.S. shipping included</li><li>True-beginner format</li><li>Choose any two founding designs</li><li>Adult use; each kit contains a needle</li></ul><p><em>Pre-launch note:</em> the bundle will open only after each included design passes sample and novice testing.</p>",
+      "seo_title": "Beginner needlepoint kit duo | First Thread Studio",
+      "seo_description": "Choose two complete beginner mini needlepoint kits for a craft night, screen-free gift, or next project.",
+      "tags": ["needlepoint bundle", "craft night", "screen-free gift", "beginner craft kit", "adult activity", "gift set"],
+      "facts": {"Includes":"2 complete planned kits","Designs":"Choose any two","Experience":"None","Shipping":"Planned U.S. shipping included","Safety":"Adult use; contains blunt needles"},
+      "images": ["first-stitch-duo.webp", "duo-layout.webp"]
+    },
+    {
+      "handle": "stitch-rescue-pack",
+      "sku": "FTS-RSC-01",
+      "title": "Stitch Rescue Pack",
+      "short_title": "Stitch Rescue Pack",
+      "price": "7.00",
+      "compare_at_price": "",
+      "product_type": "Needlepoint accessory",
+      "collection": "Tools & Extras",
+      "status": "draft",
+      "featured": false,
+      "badge": "Practical add-on",
+      "one_line": "Backup threader, blunt needle, and matching repair thread for a calmer finish.",
+      "description_html": "<p>A compact backup pack for the two tiny things most likely to disappear mid-project. The planned Stitch Rescue Pack includes one blunt tapestry needle, one needle threader, and a small matching thread reserve selected for the kit in your order.</p><p>This is a service add-on, not a substitute for a full kit. It is intended for active First Thread Studio projects and will be offered only with a compatible kit.</p><ul><li>1 blunt tapestry needle</li><li>1 needle threader</li><li>Matching thread reserve</li><li>Adult use; contains a needle</li></ul><p><em>Pre-launch note:</em> component specifications are pending supplier and safety review.</p>",
+      "seo_title": "Needlepoint Stitch Rescue Pack | First Thread Studio",
+      "seo_description": "A practical backup needle, threader, and matching thread reserve for a First Thread Studio mini kit.",
+      "tags": ["needlepoint accessory", "tapestry needle", "needle threader", "replacement thread", "craft tool"],
+      "facts": {"Includes":"Needle, threader, thread reserve","Compatibility":"First Thread Studio kits","Safety":"Adult use; contains a needle"},
+      "images": ["stitch-rescue-pack.webp"]
+    }
+  ],
+  "collections": [
+    {"handle":"first-stitch-minis","title":"First Stitch Minis","description":"Original, small-format needlepoint projects designed around a true beginner's first finish."},
+    {"handle":"gift-sets","title":"Gift Sets & Craft Nights","description":"Complete screen-free projects for solo nights, friend nights, and thoughtful gifts."},
+    {"handle":"tools-extras","title":"Tools & Extras","description":"Small, useful backups that solve a real beginner problem."}
+  ],
+  "navigation": {
+    "main": [
+      ["Shop the founding designs", "/collections/first-stitch-minis"],
+      ["How it works", "/pages/how-it-works"],
+      ["Beginner help", "/pages/beginner-help"],
+      ["Our story", "/pages/our-story"]
+    ],
+    "footer": [
+      ["FAQ", "/pages/faq"],
+      ["Shipping & returns", "/pages/shipping-returns"],
+      ["Founding drop policy", "/pages/founding-drop-policy"],
+      ["Contact", "/pages/contact"],
+      ["Privacy", "/policies/privacy-policy"],
+      ["Terms", "/policies/terms-of-service"]
+    ]
+  }
+}

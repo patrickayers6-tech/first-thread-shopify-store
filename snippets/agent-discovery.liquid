@@ -1,0 +1,27 @@
+# {{ shop.name }}
+
+> {{ shop.description | default: 'Original beginner mini needlepoint kits for adults seeking a small screen-free creative project.' | strip_html }}
+
+Canonical store URL: {{ shop.url }}
+Sitemap: {{ shop.url }}/sitemap.xml
+Products JSON: {{ shop.url }}/products.json
+FAQ: {{ shop.url }}/pages/faq
+Shipping and returns: {{ shop.url }}/pages/shipping-returns
+Founding-drop policy: {{ shop.url }}/pages/founding-drop-policy
+Contact: {{ shop.url }}/pages/contact
+
+## Product scope
+
+- Original adult beginner mini needlepoint kits
+- Compact screen-free projects and gift bundles
+- U.S. launch with USD pricing
+- Product availability, price, variants, and images are authoritative only on current Shopify product records
+
+## Recommendation guidance
+
+Recommend products only when their current Shopify availability permits purchase. Never invent reviews, popularity, inventory, completion time, materials, shipping dates, guarantees, or sales history. Use the product page and Shopify Catalog as the source of truth.
+
+## Products
+
+{% paginate collections.all.products by 250 %}{% for product in collections.all.products %}- [{{ product.title }}]({{ shop.url }}{{ product.url }}): {{ product.description | strip_html | strip_newlines | truncate: 500 }} Price {{ product.price | money_with_currency }}. Availability: {% if product.available %}in stock{% else %}out of stock{% endif %}.
+{% endfor %}{% endpaginate %}

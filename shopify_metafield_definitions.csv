@@ -1,0 +1,18 @@
+namespace,key,name,type,applies_to,purpose,launch_status
+custom,skill_level,Skill level,single_line_text_field,product,Agent query matching for beginner suitability,ready
+custom,prior_experience,Prior experience,single_line_text_field,product,Clarify no-experience positioning,ready
+custom,finished_dimensions,Finished dimensions,single_line_text_field,product,Size and scale queries,pending_sample
+custom,mesh_size,Canvas mesh size,single_line_text_field,product,Technical product matching,pending_sample
+custom,thread_material,Thread material,single_line_text_field,product,Material-specific queries,pending_supplier
+custom,color_count,Color count,number_integer,product,Project complexity queries,ready_by_design
+custom,core_stitch,Core stitch,single_line_text_field,product,Technique matching,ready
+custom,completion_time,Verified completion range,single_line_text_field,product,Time-based queries,pending_novice_test
+custom,finishing_method,Finishing method,single_line_text_field,product,Self-finishing queries,pending_sample
+custom,age_positioning,Age positioning,single_line_text_field,product,Safety and audience,ready
+custom,contains_needle,Contains needle,boolean,product,Safety disclosure,ready
+custom,country_of_origin,Country of origin,single_line_text_field,product,Marketplace compliance,pending_supplier
+custom,materials_verified,Materials verified,boolean,product,Prevent unverified claims,false
+custom,sample_approved,Physical sample approved,boolean,product,Checkout gate,false
+custom,novice_test_passed,Novice test passed,boolean,product,Checkout gate,false
+custom,external_url,External product URL,url,product,Agentic plan discovery mapping,pending_domain
+custom,visualization_disclosure,Image disclosure,single_line_text_field,product,Honest digital-image status,ready

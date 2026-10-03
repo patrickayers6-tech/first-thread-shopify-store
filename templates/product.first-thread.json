@@ -1,0 +1,81 @@
+{
+  "sections": {
+    "status": {
+      "type": "first-thread-status",
+      "settings": {
+        "text": "Founding product preview · checkout opens only after sample approval",
+        "link_label": "See launch gates",
+        "link": "/#launch-gates"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {"type":"text","settings":{"text":"{{ product.vendor }}","text_style":"uppercase"}},
+        "title": {"type":"title"},
+        "price": {"type":"price"},
+        "prelaunch": {"type":"custom_liquid","settings":{"custom_liquid":"<div class='fts-product-note'><strong>Pre-launch preview:</strong> this product remains unavailable until its physical sample, thread quantity, print alignment, beginner test, exact ship date, and landed cost pass.</div>"}},
+        "variant_picker": {"type":"variant_picker","settings":{"picker_type":"button","swatch_shape":"circle"}},
+        "buy_buttons": {"type":"buy_buttons","settings":{"show_dynamic_checkout":false,"show_gift_card_recipient":false}},
+        "description": {"type":"description"},
+        "share": {"type":"share","settings":{"share_label":"Share"}}
+      },
+      "block_order": ["vendor","title","price","prelaunch","variant_picker","buy_buttons","description","share"],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-1",
+        "media_position": "left",
+        "gallery_layout": "stacked",
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 32
+      }
+    },
+    "facts": {
+      "type": "first-thread-product-facts",
+      "blocks": {
+        "f1":{"type":"fact","settings":{"label":"Skill level","value":"True beginner"}},
+        "f2":{"type":"fact","settings":{"label":"Finished size","value":"Planned 3.5–4 inches"}},
+        "f3":{"type":"fact","settings":{"label":"Mesh","value":"Planned 10–13 mesh"}},
+        "f4":{"type":"fact","settings":{"label":"Core stitch","value":"One diagonal tent stitch"}},
+        "f5":{"type":"fact","settings":{"label":"Prior experience","value":"None"}},
+        "f6":{"type":"fact","settings":{"label":"Finishing","value":"Self-finishing format"}},
+        "f7":{"type":"fact","settings":{"label":"Safety","value":"Adult use; contains a blunt needle"}}
+      },
+      "block_order":["f1","f2","f3","f4","f5","f6","f7"],
+      "settings":{"kicker":"Project facts","heading":"Know the project before you start.","note":"Exact materials and time claims remain provisional until the physical sample passes."}
+    },
+    "method": {
+      "type":"first-thread-method",
+      "blocks": {
+        "m1":{"type":"step","settings":{"heading":"Open only what you need.","body":"Color cards, canvas, tools, and the first-step sequence are organized before the box closes."}},
+        "m2":{"type":"step","settings":{"heading":"Follow one stitch path.","body":"Begin with a single diagonal tent stitch before any optional texture is introduced."}},
+        "m3":{"type":"step","settings":{"heading":"Recover without panic.","body":"The planned guide shows how to undo, restart, relax tension, and use the spare tools."}}
+      },
+      "block_order":["m1","m2","m3"],
+      "settings":{"kicker":"The first-project system","heading":"Made for the moment after “I think I messed it up.”","note":"Final tutorial steps will be approved only after observing a true novice use the production sample."}
+    },
+    "faq": {
+      "type":"first-thread-faq",
+      "blocks": {
+        "q1":{"type":"item","settings":{"question":"What exactly is included?","answer":"<p>The planned format includes one original printed canvas, pre-sorted thread with learning-room overage, one blunt tapestry needle, a threader, quick-start card, and original video help. Final contents will be confirmed from the physical sample.</p>"}},
+        "q2":{"type":"item","settings":{"question":"How long will it take?","answer":"<p>We will not publish an exact time until a true novice completes the production sample without live coaching. The design target is a small project that can be finished across a few calm sessions.</p>"}},
+        "q3":{"type":"item","settings":{"question":"Is this safe for children?","answer":"<p>The product is positioned for adults and contains a needle. Any future youth use guidance will follow final component review and clear supervision language.</p>"}},
+        "q4":{"type":"item","settings":{"question":"When will it ship?","answer":"<p>No ship date has been promised. A dated fulfillment window will be posted before any preorder payment is accepted.</p>"}}
+      },
+      "block_order":["q1","q2","q3","q4"],
+      "settings":{"kicker":"Before you join the drop","heading":"Product questions, answered plainly."}
+    },
+    "related": {
+      "type":"related-products",
+      "settings":{"heading":"Choose your next small finish","heading_size":"h2","products_to_show":4,"columns_desktop":4,"color_scheme":"scheme-1","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"columns_mobile":"2","padding_top":56,"padding_bottom":56}
+    }
+  },
+  "order": ["status","main","facts","method","faq","related"]
+}

@@ -1,0 +1,86 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "First Thread Studio product catalog",
+  "home_page_url": "https://patrickayers6-tech.github.io/first-thread-shopify-store/",
+  "feed_url": "https://patrickayers6-tech.github.io/first-thread-shopify-store/feed.json",
+  "description": "Original mini needlepoint kits that remove the first-time friction: one stitch, pre-sorted color, self-finishing projects, and calm recovery help.",
+  "items": [
+    {
+      "id": "FTS-NG-01",
+      "url": "https://patrickayers6-tech.github.io/first-thread-shopify-store/products/night-garden-first-stitch-mini.html",
+      "title": "Night Garden First Stitch Mini",
+      "content_text": "Start needlepoint without starting a supply collection. Night Garden is a compact, original mini project built around one beginner stitch and a clear color path. The planned complete kit includes a printed 10\u201313 mesh canvas, pre-sorted thread with learning-room overage, a blunt tapestry needle, a threader, a quick-start card, and original video help. The small format is designed to become a self-finished ornament, patch, tag, or mini display\u2014without sending it to a professional finisher. Skill level: true beginner Prior experience: none planned Finished design: approximately 3.5\u20134 in Colors: 6 Core technique: one diagonal tent stitch Age positioning: adult craft kit; contains a needle Pre-launch note: this listing is in draft until physical sample, thread quantity, print alignment, completion time, and ship date are verified.",
+      "image": "https://patrickayers6-tech.github.io/first-thread-shopify-store/assets/night-garden-kit.webp",
+      "tags": [
+        "beginner needlepoint",
+        "adult craft kit",
+        "screen-free gift",
+        "mini needlepoint",
+        "botanical craft",
+        "first stitch",
+        "original design"
+      ]
+    },
+    {
+      "id": "FTS-LS-01",
+      "url": "https://patrickayers6-tech.github.io/first-thread-shopify-store/products/lucky-sardine-first-stitch-mini.html",
+      "title": "Lucky Sardine First Stitch Mini",
+      "content_text": "A first needlepoint project should feel inviting before the first thread is cut. Lucky Sardine uses an original, graphic fish motif and a limited color path so a new stitcher can see progress quickly. The planned complete kit includes a printed 10\u201313 mesh canvas, pre-sorted thread with learning-room overage, a blunt tapestry needle, threader, quick-start card, and original video help. The compact design is intended for a self-finished patch, ornament, luggage tag, or mini display. Skill level: true beginner Prior experience: none planned Finished design: approximately 3.5\u20134 in Colors: 5 Core technique: one diagonal tent stitch Age positioning: adult craft kit; contains a needle Pre-launch note: this listing remains draft until physical sample and novice completion testing are complete.",
+      "image": "https://patrickayers6-tech.github.io/first-thread-shopify-store/assets/lucky-sardine-kit.webp",
+      "tags": [
+        "beginner needlepoint",
+        "adult craft kit",
+        "fish gift",
+        "mini needlepoint",
+        "portable craft",
+        "first stitch",
+        "original design"
+      ]
+    },
+    {
+      "id": "FTS-LV-01",
+      "url": "https://patrickayers6-tech.github.io/first-thread-shopify-store/products/little-victory-first-stitch-mini.html",
+      "title": "Little Victory First Stitch Mini",
+      "content_text": "Mark the win by making something with your hands. Little Victory is an original mini trophy design planned for a true beginner: a short color list, one core stitch, and a format that does not require professional finishing. The complete-kit plan includes a printed 10\u201313 mesh canvas, pre-sorted thread with learning-room overage, a blunt tapestry needle, threader, quick-start card, and original video help. Skill level: true beginner Prior experience: none planned Finished design: approximately 3.5\u20134 in Colors: 5 Core technique: one diagonal tent stitch Age positioning: adult craft kit; contains a needle Pre-launch note: this listing remains draft until the physical sample, material quantities, and beginner test pass.",
+      "image": "https://patrickayers6-tech.github.io/first-thread-shopify-store/assets/little-victory-kit.webp",
+      "tags": [
+        "beginner needlepoint",
+        "adult craft kit",
+        "celebration gift",
+        "mini needlepoint",
+        "promotion gift",
+        "first stitch",
+        "original design"
+      ]
+    },
+    {
+      "id": "FTS-DUO-01",
+      "url": "https://patrickayers6-tech.github.io/first-thread-shopify-store/products/pick-any-two-first-stitch-minis.html",
+      "title": "Pick Any Two First Stitch Minis",
+      "content_text": "Two small projects make a better first craft night. Choose two original First Stitch Mini designs and receive two complete planned kits\u2014each with its own canvas, color set, beginner tools, quick-start card, and video help. The duo is designed for a friend night, a low-pressure date, or one project now and one next. Each kit remains individually usable; no materials need to be shared. Two complete mini kits Planned U.S. shipping included True-beginner format Choose any two founding designs Adult use; each kit contains a needle Pre-launch note: the bundle will open only after each included design passes sample and novice testing.",
+      "image": "https://patrickayers6-tech.github.io/first-thread-shopify-store/assets/first-stitch-duo.webp",
+      "tags": [
+        "needlepoint bundle",
+        "craft night",
+        "screen-free gift",
+        "beginner craft kit",
+        "adult activity",
+        "gift set"
+      ]
+    },
+    {
+      "id": "FTS-RSC-01",
+      "url": "https://patrickayers6-tech.github.io/first-thread-shopify-store/products/stitch-rescue-pack.html",
+      "title": "Stitch Rescue Pack",
+      "content_text": "A compact backup pack for the two tiny things most likely to disappear mid-project. The planned Stitch Rescue Pack includes one blunt tapestry needle, one needle threader, and a small matching thread reserve selected for the kit in your order. This is a service add-on, not a substitute for a full kit. It is intended for active First Thread Studio projects and will be offered only with a compatible kit. 1 blunt tapestry needle 1 needle threader Matching thread reserve Adult use; contains a needle Pre-launch note: component specifications are pending supplier and safety review.",
+      "image": "https://patrickayers6-tech.github.io/first-thread-shopify-store/assets/stitch-rescue-pack.webp",
+      "tags": [
+        "needlepoint accessory",
+        "tapestry needle",
+        "needle threader",
+        "replacement thread",
+        "craft tool"
+      ]
+    }
+  ]
+}
